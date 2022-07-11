@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Logo" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode Logo" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase Logo" width="50" height="50"/>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js Logo" width="50" height="50"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.js Logo" width="50" height="50"/>
 
                 
   
