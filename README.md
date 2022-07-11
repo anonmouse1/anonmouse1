@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on - a React based interview question generator  that uses the OpenAI API
 - 🌱 I’m currently learning - React/Javascript/Flexbox
 - 👯 I’m looking to collaborate on - anything React based...
-- 📫 How to reach me: feel free to message me here on Github 
+- 📫 How to reach me: msg [dot] vrifie [at] aleeas [dot] com
 
 
 🧰 Toolbox
