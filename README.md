@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning - React/Javascript/Flexbox
 - 👯 I’m looking to collaborate on - anything React based...
 - 📫 How to reach me: feel free to message me here on Github 
-- 
+
+
 🧰 Toolbox
 <p float="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python Logo" width="50" height="50"/>
