@@ -4,19 +4,16 @@
 **anonmouse1/anonmouse1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... an interview question generator using the OpenAI API
-- 🌱 I’m currently learning ...React and Javascript
-- 👯 I’m looking to collaborate on ... anything React based
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...
-- 📫 How to reach me: ... feel free to message me here on Github or send an email to XXXX@simplelogin.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 
 -->
 <!-- Your badges -->
+- 🔭 I’m currently working on - a React based interview question generator  that uses the OpenAI API
+- 🌱 I’m currently learning - React/Javascript/Flexbox
+- 👯 I’m looking to collaborate on - anything React based...
+- 📫 How to reach me: feel free to message me here on Github 
+- 
 🧰 Toolbox
 <p float="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python Logo" width="50" height="50"/>
