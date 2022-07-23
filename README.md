@@ -41,3 +41,10 @@ Here are some ideas to get you started:
 <p float="left">	
   <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonmouse1&layout=compact&langs_count=10"/>	
 </p>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anonmouse1&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
