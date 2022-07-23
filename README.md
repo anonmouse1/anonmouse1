@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 -->
 <!-- Your badges -->
-- 🔭 I’m currently working on - a React based [interview question generator](https://openai-interview-question-generator.vercel.app/) that uses the OpenAI API
+- 🔭 I’m currently working on - a React based [interview question generator](https://openai-interview-question-generator.vercel.app/) that uses the OpenAI API. I've recently expanded this into a more advanced [job(search) helper website](https://vercel.com/anonmouse1/openai-job-helper).
 - 🌱 I’m currently learning - React/Javascript/Flexbox
 - 👯 I’m looking to collaborate on - anything React based...especially a project that includes some native iOS development
 - 📫 How to reach me: msg [dot] vrfie [at] aleeas [dot] com
