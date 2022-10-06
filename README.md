@@ -21,9 +21,10 @@
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=anonmouse1&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
+<!--
 <p float="left">	
   <img height="182" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonmouse1&layout=compact&langs_count=10"/>	
 </p>
 
-
+--> 
 
