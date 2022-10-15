@@ -6,7 +6,7 @@
 -->
 <!-- Your badges -->
 #### Projects
-  www.generateinterviewquestions.com AI generated interview questions for any job 
+  www.generateinterviewquestions.com - AI generated interview questions for every job 
 - 🤯 I’m currently learning - React/Javascript/Flexbox
 - 🤝 I’m looking to collaborate on - anything React based...especially a project that includes some native iOS development
 - Interests : security🔒, privacy🕵️‍♂️, AI🤖, mobile app-development📱
