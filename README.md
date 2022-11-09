@@ -6,9 +6,9 @@
 -->
 <!-- Your badges -->
 #### Projects
-  www.generateinterviewquestions.com - AI generated interview questions for every job generateinterviewquestions.com- GPT3 generated interview questions for every job 
-www.jobhelphai.com - AI powered tools to help job seekers find a position ( interview questions, skill finder, job analyser)
-
+  - www.generateinterviewquestions.com - AI generated interview questions for every job generateinterviewquestions.com- GPT3 generated interview questions for every job 
+- www.jobhelphai.com - AI powered tools to help job seekers find a position ( interview questions, skill finder, job analyser)
+#### About
 - 🤯 I’m currently learning - Java/SQL
 - 🤝 I’m looking to collaborate on - web applications using generative AI
 - Interests : security🔒, privacy🕵️‍♂️, AI🤖, mobile app-development📱
