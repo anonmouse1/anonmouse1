@@ -6,7 +6,7 @@
 -->
 <!-- Your badges -->
 #### Projects
-  - www.generateinterviewquestions.com - AI generated interview questions for every job generateinterviewquestions.com- 
+  - www.generateinterviewquestions.com - AI generated interview questions for any job 
 - www.jobhelphai.com - AI powered tools to help job seekers find a position ( interview questions, skill finder, job analyser)
 #### About
 - 🤯 I’m currently learning - Java/SQL
