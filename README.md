@@ -11,7 +11,7 @@
 #### About
 - 📚 Currently Learning - Java/SQL/Typescript/React
 - 🤝 Looking to collaborate on - web applications using generative AI
-- 💙 - security🔒, privacy🕵️‍♂️, AI🤖, mobile app-development📱
+- ⭐ Interests - security🔒, privacy🕵️‍♂️, AI🤖, mobile app-development📱
 - 📫 How to reach me: msg [dot] vrfie [at] aleeas [dot] com
 
 
