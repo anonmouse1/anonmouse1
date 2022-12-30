@@ -8,6 +8,7 @@
 #### Projects
   - [www.generateinterviewquestions.com](https://www.generateinterviewquestions.com) - AI generated interview questions for any job 
 - [www.jobhelphai.com](https://www.jobhelpai.com) - AI powered tools to help job seekers find a position ( interview questions, skill finder, job analyser)
+- [GAA Scoreboard](https://game-scoreboard-beryl.vercel.app/) - a basic scoreboard for keeping track of scores in GAA matches
 #### About
 - 📚 Currently Learning - Java/SQL/Typescript/React
 - 🤝 Looking to collaborate on - web applications using generative AI
