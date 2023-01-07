@@ -9,6 +9,7 @@
   - [www.generateinterviewquestions.com](https://www.generateinterviewquestions.com) - AI generated interview questions for any job 
 - [www.jobhelphai.com](https://www.jobhelpai.com) - AI powered tools to help job seekers find a position ( interview questions, skill finder, job analyser)
 - [GAA Scoreboard](https://game-scoreboard-beryl.vercel.app/) - a basic scoreboard for keeping track of scores in GAA matches [(Repo)](https://github.com/anonmouse1/game-scoreboard)
+- [Blackjack](https://blackjack-ashy-six.vercel.app/) - play a basic game of blackjack
 #### About
 - 📚 Currently Learning - Frontend: Javascript/CSS/HTML
 - 🤝 Looking to collaborate on - web applications using generative AI
