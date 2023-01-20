@@ -20,14 +20,9 @@
 
 
 
-                
-  
- 
+               
 
+[![anonmouse1 GitHub stats](https://readme-stats-mv8y.vercel.app/api?username=anonmouse1)](https://github.com/anonmouse1/github-readme-stats)
 
-
-
-[![anonmouse1 GitHub stats](https://readme-stats.clckblog.space/api?username=anonmouse1)](https://github.com/anonmouse1/github-readme-stats)
-
-[![Top Languages](https://readme-stats.clckblog.space/api/top-langs/?username=anonmouse1)](https://github.com/anonmouse1/github-readme-stats)
+[![Top Languages](https://readme-stats-mv8y.vercel.app/api/top-langs/?username=anonmouse1)](https://github.com/anonmouse1/github-readme-stats)
 
