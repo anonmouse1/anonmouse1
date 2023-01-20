@@ -26,3 +26,4 @@
 
 [![Top Languages](https://readme-stats-mv8y.vercel.app/api/top-langs/?username=anonmouse1&show_icons=true&theme=dark)](https://github.com/anonmouse1/github-readme-stats)
 
+<!--START_SECTION:activity-->
