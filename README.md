@@ -10,7 +10,7 @@
 - [www.jobhelphai.com](https://www.jobhelpai.com) - AI powered tools to help job seekers find a position ( interview questions, skill finder, job analyser)
 - [GAA Scoreboard](https://game-scoreboard-beryl.vercel.app/) - a basic scoreboard for keeping track of scores in GAA matches [(Repo)](https://github.com/anonmouse1/game-scoreboard)
 - [Password Generator](https://password-generator-taupe-ten.vercel.app/) - quick, easy and secure password generation [(Repo)](https://github.com/anonmouse1/passwordGenerator)
-- Chrome extension - coming soon ...
+- Unit Converter - coming soon ...
 #### About
 - 📚 Currently Learning - Frontend: Javascript/CSS/HTML
 - 🤝 Looking to collaborate on - web applications using generative AI
