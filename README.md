@@ -7,7 +7,7 @@
 -->
 <!-- Your badges -->
 #### Projects
-  - [www.generateinterviewquestions.com](https://www.generateinterviewquestions.com) - AI generated interview questions for any job 
+  - [www.generateinterviewquestions.com](https://www.generateinterviewquestions.com) - AI generated interview questions for any job (Down for maintenance)
 - [GAA Scoreboard](https://game-scoreboard-beryl.vercel.app/) - a basic scoreboard for keeping track of scores in GAA matches [(Repo)](https://github.com/anonmouse1/game-scoreboard)
 - [Password Generator](https://password-generator-taupe-ten.vercel.app/) - quick, easy and secure password generation [(Repo)](https://github.com/anonmouse1/passwordGenerator)
 - [Metric/Imperial Unit Converter](https://unit-converter-psi.vercel.app/) - simple conversions of length, volume and mass [(Repo)](https://github.com/anonmouse1/unitConverter)
