@@ -12,7 +12,7 @@
 - [Password Generator](https://password-generator-taupe-ten.vercel.app/) - quick, easy and secure password generation [(Repo)](https://github.com/anonmouse1/passwordGenerator)
 - [Metric/Imperial Unit Converter](https://unit-converter-psi.vercel.app/) - simple conversions of length, volume and mass [(Repo)](https://github.com/anonmouse1/unitConverter)
 #### About
-- 📚 Currently Learning - Frontend: Javascript/CSS/HTML
+- 📚 Currently Learning - Frontend: Javascript/CSS/HTML  Backend:AWS
 - 🤝 Looking to collaborate on - web applications using generative AI
 - ⭐ Interests - security🔒, privacy🕵️‍♂️, AI🤖, mobile app-development📱
 - 📫 How to reach me: msg [dot] vrfie [at] aleeas [dot] com
