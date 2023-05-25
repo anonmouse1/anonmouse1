@@ -11,7 +11,7 @@
 - [GAA Scoreboard](https://game-scoreboard-beryl.vercel.app/) - a basic scoreboard for keeping track of scores in GAA matches [(Repo)](https://github.com/anonmouse1/game-scoreboard)
 - [Password Generator](https://password-generator-taupe-ten.vercel.app/) - quick, easy and secure password generation [(Repo)](https://github.com/anonmouse1/passwordGenerator)
 - [Metric/Imperial Unit Converter](https://unit-converter-psi.vercel.app/) - simple conversions of length, volume and mass [(Repo)](https://github.com/anonmouse1/unitConverter)
-- [Learn French](https://learn-french-responsive-i0h4jqkfy-anonmouse1.vercel.app/) - tips to follow the path of least resistance method of learning French.[(Repo)](https://github.com/anonmouse1/learnFrenchResponsive)
+- [Learn French](https://learn-french-responsive-i0h4jqkfy-anonmouse1.vercel.app/) - path of least resistance method of learning French [(Repo)](https://github.com/anonmouse1/learnFrenchResponsive)
 #### About
 - 📚 Currently Learning - Frontend: Javascript/CSS/HTML  Backend:AWS
 - 🤝 Looking to collaborate on - web applications using generative AI
