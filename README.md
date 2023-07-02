@@ -15,7 +15,7 @@
 #### About
 - 📚 Currently Learning - Frontend: Javascript/CSS/HTML  Backend:AWS
 - 🤝 Looking to collaborate on - web applications using generative AI
-- ⭐ Interests - security🔒, privacy🕵️‍♂️, AI🤖, mobile app-development📱
+- 🌟 Interests - security🔒, privacy🕵️‍♂️ , AI🤖, mobile app-development📱
 - 📫 How to reach me: msg [dot] vrfie [at] aleeas [dot] com
 
 
