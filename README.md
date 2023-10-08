@@ -14,6 +14,7 @@
 - [Learn French](https://learn-french-responsive-i0h4jqkfy-anonmouse1.vercel.app/) - path of least resistance method of learning French [(Repo)](https://github.com/anonmouse1/learnFrenchResponsive)
 #### About
 - 📚 Currently Learning - Java || Python || AWS || Kubernetes
+- 🧐 Researching - [AI Agents](https://github.com/microsoft/autogen)
 - 🤝 Looking to collaborate on - web applications using generative AI
 - 🌟 Interests - security🔒, privacy🕵️‍♂️ , AI🤖
 - 📫 How to reach me: msg [dot] vrfie [at] aleeas [dot] com
