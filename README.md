@@ -13,9 +13,9 @@
 - [Metric/Imperial Unit Converter](https://unit-converter-psi.vercel.app/) - simple conversions of length, volume and mass [(Repo)](https://github.com/anonmouse1/unitConverter)
 - [Learn French](https://learn-french-responsive-i0h4jqkfy-anonmouse1.vercel.app/) - path of least resistance method of learning French [(Repo)](https://github.com/anonmouse1/learnFrenchResponsive)
 #### About
-- 📚 Currently Learning - Frontend: Javascript/CSS/HTML  Backend:AWS
+- 📚 Currently Learning - Java || Python || AWS || Kubernetes
 - 🤝 Looking to collaborate on - web applications using generative AI
-- 🌟 Interests - security🔒, privacy🕵️‍♂️ , AI🤖, mobile app-development📱
+- 🌟 Interests - security🔒, privacy🕵️‍♂️ , AI🤖
 - 📫 How to reach me: msg [dot] vrfie [at] aleeas [dot] com
 
 
