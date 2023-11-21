@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+![anonmouse1](https://github.com/anonmouse1/anonmouse1/blob/main/img/dalle-rearview-code1.png)
+
+
 <!--
 **anonmouse1/anonmouse1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - [www.jobhelphai.com](https://www.jobhelpai.com) - AI powered tools to help job seekers find a position ( interview questions, skill finder, job analyser)
